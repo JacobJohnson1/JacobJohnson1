@@ -1,16 +1,22 @@
-### Hi there 👋
+### Howdy 👋
 
-<!--
-**JacobJohnson1/JacobJohnson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on 
+HomeMade Website
+Racket Simple Parser
+TicTacToe-esk Game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning 
+Racket
+
+- 📫 How to reach me: 
+jdjhc4@umsystem.edu
+
+- Current Courses:
+
+CS281 
+CS320 Networking
+CS404 Algorithms
+CS441 Programming Languages
+CS449 Software Dev.
+
