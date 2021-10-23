@@ -1,22 +1,23 @@
 ### Howdy 👋
 
 
-- 🔭 I’m currently working on 
-HomeMade Website  
-Racket Simple Parser  
+- 🔭 I’m currently working on  
+My Website  
+Simple Parser (in Racket)  
 TicTacToe-esk Game  
 
 - 🌱 I’m currently learning 
-Racket  
+Racket 
+JUnit Testing 
 
 - 📫 How to reach me:   
 jdjhc4@umsystem.edu  
 
 - Current Courses:  
 
-CS281   
-CS320 Networking  
-CS404 Algorithms  
-CS441 Programming Languages  
-CS449 Software Dev.  
+CS281 Computer Architecture & Organization  
+CS320 Data Communications and Networking    
+CS404 Algorithms & Complexity  
+CS441 Programming Languages: Design & Implementation  
+CS449 Foundations of Software Engineering   
 
