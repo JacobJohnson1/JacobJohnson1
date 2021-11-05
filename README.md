@@ -4,7 +4,7 @@
 ### 🔭 I’m currently working on  
 My Website  
 Simple Parser (in Racket)  
-TicTacToe-esk Game  
+TicTacToe-esk Game (CS449_SOS_project)
 
 ### 🌱 I’m currently learning  
 Racket  
