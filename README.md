@@ -5,13 +5,14 @@
 - My Website  
 - Simple Parser (in Racket)  
 - TicTacToe-esk Game [CS449_SOS_project](https://github.com/JacobJohnson1/CS449_SOS_project)  
-- Python Web Scraping  
-- HTML Email Templates
 
 
 ### 🌱 I’m currently learning  
 - Racket  
-- JUnit Testing 
+- JUnit Testing  
+- Python Web Scraping  
+- HTML Email Templates
+
 
 ### 📫 How to reach me:   
 jdjhc4@umsystem.edu  
