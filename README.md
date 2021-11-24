@@ -1,4 +1,4 @@
-## Howdy 👋
+## Howdy 👋 🤠 
 
 
 ### 🔭 I’m currently working on/learning about: 
