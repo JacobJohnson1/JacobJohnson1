@@ -3,19 +3,17 @@
 
 ### 🔭 I’m currently working on/learning about: 
 - My Website  
-- Simple Parser (in Racket)  
 - TicTacToe-esk Game [CS449_SOS_project](https://github.com/JacobJohnson1/CS449_SOS_project)  
 
 
 ### 🌱 I’m currently learning  
 - Racket  
-- JUnit Testing  
 - Python Web Scraping  
 - HTML Email Templates
 
 
 ### 📫 How to reach me:   
-jdjhc4@umsystem.edu  
+- jdjhc4@umsystem.edu  
 
 ### Current Courses:  
 
