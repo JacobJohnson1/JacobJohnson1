@@ -3,7 +3,7 @@
 
 ### 🔭 I’m currently working on/learning about: 
 - My Website  
-- TicTacToe-esk Game [CS449_SOS_project](https://github.com/JacobJohnson1/CS449_SOS_project)  
+- TicTacToe-esque Game [CS449_SOS_project](https://github.com/JacobJohnson1/CS449_SOS_project)  
 
 
 ### 🌱 I’m currently learning  
