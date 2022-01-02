@@ -3,23 +3,20 @@
 
 ### 🔭 I’m currently working on/learning about: 
 - My Website  
-- TicTacToe-esque Game [CS449_SOS_project](https://github.com/JacobJohnson1/CS449_SOS_project)  
-
+- Auto login bot/webscraper 
 
 ### 🌱 I’m currently learning  
-- Racket  
-- Python Web Scraping  
+- Functional Programming  
+- Python Web Scraping 
+- Selenium 
 - HTML Email Templates
 
 
 ### 📫 How to reach me:   
-- jdjhc4@umsystem.edu  
+- jdjhc4@umsystem.edu 
+- therealjakejohnson@gmail.com
 
 ### Current Courses:  
 
-- CS281 Computer Architecture & Organization  
-- CS320 Data Communications and Networking    
-- CS404 Algorithms & Complexity  
-- CS441 Programming Languages: Design & Implementation  
-- CS449 Foundations of Software Engineering   
+ 
 
