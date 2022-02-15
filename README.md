@@ -2,6 +2,8 @@
 
 
 ### 🔭 I’m currently working on/learning about: 
+- Simulated Annealing
+- Monte Carlo Simulation
 - My Website  
 - Auto login bot/webscraper 
 
