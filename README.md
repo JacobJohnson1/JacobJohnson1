@@ -1,18 +1,13 @@
 ## Howdy 👋 🤠 
 
 
-### 🔭 I’m currently working on/learning about: 
+### 🔭 🌱 I’m currently working on/learning about: 
 - Simulated Annealing
 - Monte Carlo Simulation
 - My Website  
-- Auto login bot/webscraper 
-
-### 🌱 I’m currently learning  
-- Functional Programming  
-- Python Web Scraping 
+- Auto login bot/webscraper
 - Selenium 
-- HTML Email Templates
-
+- asp.NET core
 
 ### 📫 How to reach me:   
 - jdjhc4@umsystem.edu 
