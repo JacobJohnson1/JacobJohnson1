@@ -2,6 +2,7 @@
 
 
 ### 🔭 🌱 I’m currently working on/learning about: 
+- Event Cameras
 - Making improvements to [Simulated Annealing](https://github.com/JacobJohnson1/CS461_Project2) program
 - Speeding up [Monte Carlo Simulation](https://github.com/JacobJohnson1/CS461-Project1) Program
 - My Website  
