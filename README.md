@@ -2,10 +2,9 @@
 
 
 ### 🔭 🌱 I’m currently working on/learning about: 
-- Making improvements to [Simulated Annealing](https://github.com/JacobJohnson1/CS461_Project2) program
-- Speeding up [Monte Carlo Simulation](https://github.com/JacobJohnson1/CS461-Project1) Program
+- Competitive Programming!
 - [My Website](https://cs4901.gitlab.io/portfolio_site_v3/)  
-- Library App  
+- Library App with Angular
 - Job Hunting! 
 
 ### 📫📨 How to reach me:   
