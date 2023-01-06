@@ -2,10 +2,8 @@
 
 
 ### 🔭 🌱 I’m currently working on/learning about: 
-- Competitive Programming!
-- [My Website](https://cs4901.gitlab.io/portfolio_site_v3/)  
-- Library App with Angular
-- Job Hunting! 
+- [My Website](https://github.com/JacobJohnson1/react-website)  
+- Deno Fresh sound board app  
 
 ### 📫📨 How to reach me:   
 - jdjhc4@umsystem.edu 
